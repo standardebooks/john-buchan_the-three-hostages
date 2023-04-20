@@ -28,6 +28,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Three Hostages</dc:title>
 		<meta property="file-as" refines="#title">Three Hostages, The</meta>
+		<meta property="dcterms:alternate" refines="#title">The 3 Hostages</meta>
 		<dc:subject id="subject-1">Hannay, Richard (Fictitious character) -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Spy stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -41,7 +42,7 @@
 		<meta property="group-position" refines="#collection-1">4</meta>
 		<dc:description id="description">A former man-of-adventure is coaxed out of comfortable retirement and into danger as he aids in the rescue of three hostages.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Published in 1924, &lt;i&gt;The Three Hostages&lt;/i&gt; is the fourth of &lt;a href="https://standardebooks.org/ebooks/john-buchan"&gt;John Buchan's&lt;/a&gt; novels to feature Richard Hannay.&lt;/p&gt;
+			&lt;p&gt;Published in 1924, &lt;i&gt;The Three Hostages&lt;/i&gt; is the fourth of &lt;a href="https://standardebooks.org/ebooks/john-buchan"&gt;John Buchan’s&lt;/a&gt; novels to feature Richard Hannay.&lt;/p&gt;
 			&lt;p&gt;Following the conclusion of the Great War, Hannay has retired from British intelligence. He is coaxed from retirement to aid in the rescue of three prominent hostages held by an international criminal organization bent on controlling the disturbed minds of those affected by the Great War. Hannay pretends to succumb to hypnotic mind control and secretly travels to a remote farm in Norway to continue the hostage search.&lt;/p&gt;
 			&lt;p&gt;The book was made into a television series in 1977.&lt;/p&gt;
 		</meta>
