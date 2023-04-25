@@ -7,6 +7,14 @@ footer{
 	text-align: right;
 }
 
+#dedication header{
+	margin: 1em 0;
+}
+
+#dedication > p + p{
+	text-indent: 0;
+}
+
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p{
 	text-align: initial;
