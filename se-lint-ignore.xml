@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-16.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-031</code>
 			<reason>Comma after "signed it" is not required</reason>
 		</ignore>
 	</file>
