@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Three Hostages</dc:title>
 		<meta property="file-as" refines="#title">Three Hostages, The</meta>
-		<meta property="dcterms:alternate" refines="#title">The 3 Hostages</meta>
+		<meta property="dcterms:alternative" refines="#title">The 3 Hostages</meta>
 		<dc:subject id="subject-1">Hannay, Richard (Fictitious character) -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Spy stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
