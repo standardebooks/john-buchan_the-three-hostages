@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/john-buchan/the-three-hostages</dc:identifier>
 		<dc:date>2023-04-25T19:54:10Z</dc:date>
@@ -42,11 +42,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Richard Hannay</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description">A former man-of-adventure is coaxed out of comfortable retirement and into danger as he aids in the rescue of three hostages.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A former man-of-adventure is coaxed out of comfortable retirement and into danger as he aids in the rescue of three hostages.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Published in 1924, &lt;i&gt;The Three Hostages&lt;/i&gt; is the fourth of &lt;a href="https://standardebooks.org/ebooks/john-buchan"&gt;John Buchan’s&lt;/a&gt; novels to feature &lt;a href="https://standardebooks.org/collections/richard-hannay"&gt;Richard Hannay&lt;/a&gt;.&lt;/p&gt;
 			&lt;p&gt;Following the conclusion of the Great War, Hannay has retired from British intelligence. He is coaxed from retirement to aid in the rescue of three prominent hostages held by an international criminal organization bent on controlling the disturbed minds of those affected by the Great War. Hannay pretends to succumb to hypnotic mind control and secretly travels to a remote farm in Norway to continue the hostage search.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks03/0301231h.html</dc:source>
 		<dc:source>https://archive.org/details/threehostages00john</dc:source>
